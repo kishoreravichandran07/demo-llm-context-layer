@@ -1,0 +1,13 @@
+{
+  "tool": "SyntheticChatExport",
+  "owner": "alex",
+  "messages": [
+    {"role": "user", "text": "Summarize where we are on Project Falcon pricing."},
+    {"role": "assistant", "text": "Project Falcon: pilot pricing agreed at 12k per site, pending legal review."},
+    {"role": "user", "text": "Draft a note about my weekend hiking plans."},
+    {"role": "assistant", "text": "Sure - here is a packing list for the trail."},
+    {"role": "user", "text": "Any update on Project Kestrel?"},
+    {"role": "assistant", "text": "Project Kestrel: customer asked for a security questionnaire before the next call."},
+    {"role": "assistant", "text": "Project Nimbus: deployment slipped a week because of a vendor delay. NOTE: 'Nimbus' is not in the project database."}
+  ]
+}
