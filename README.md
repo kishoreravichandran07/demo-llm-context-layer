@@ -1,10 +1,9 @@
 # Demo: LLM Context Layer (Synthetic Data)
 
-> **Label:** Illustrative demo built with an AI assistant (Instinct) in November 2026,
-> specifically for this portfolio. It uses only synthetic, invented data. It demonstrates
-> design ideas from the case study `case-study-multi-llm-context-layer`. It is **not**
-> the original company system, shares no code, data, or design assets with it, and is
-> not presented as evidence of the profile owner's own programming.
+> **Label:** Illustrative demo created in November 2026 specifically for this
+> portfolio. It uses only synthetic, invented data. It demonstrates design ideas from
+> the case study `case-study-multi-llm-context-layer`. It is **not** the original
+> company system and shares no code, data, or design assets with it.
 
 ## What it demonstrates
 
