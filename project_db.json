@@ -1,0 +1,4 @@
+{
+  "projects": ["Project Falcon", "Project Kestrel"],
+  "comment": "Synthetic stand-in for an internal database. 'Project Nimbus' is deliberately absent so the demo can show quarantine."
+}
